@@ -1,6 +1,6 @@
 # Portafolio Web y Digital de Jorge Antonio García Ortiz
 
-[![Portafolio en Línea](./assets/portafolio-preview.png)](https://jgartiz.netlify.app/)
+[💼 Portafolio en Línea](https://jgartiz.netlify.app/)
 
 Este es mi portafolio web y digital, donde muestro mis habilidades en tecnologías gráficas y de desarrollo web. El proyecto está construido con **HTML**, **CSS**, y **JavaScript**, y utiliza herramientas como **npm** y **Webpack** para la gestión y empaquetado de archivos. **El portafolio está en constante desarrollo**, por lo que algunos contenidos y funcionalidades están en etapas de diseño y codificación.
 
