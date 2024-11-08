@@ -83,4 +83,3 @@ Este portafolio es un proyecto personal en desarrollo, y agradezco sugerencias o
 **Licencia**: ISC
 
 Repositorio en GitHub: [https://github.com/GiorgioAn/portafolio](https://github.com/GiorgioAn/portafolio)
-```
